@@ -36,5 +36,5 @@ You can contact me at info@marcomihaicondrache.me
 <hr>
 
 <h6 align="center">
-  <a href="mailto:info@marcomihaicondrache.me">Email</a> | <a href="status.marcomihaicondrache.me">Server Status</a> | <a href="https://buymeacoffee.com/marcocondrache">Buy me a coffee</a>
+  <a href="mailto:info@marcomihaicondrache.me">Email</a> | <a href="https://status.marcomihaicondrache.me">Server Status</a> | <a href="https://buymeacoffee.com/marcocondrache">Buy me a coffee</a>
 </h6>
