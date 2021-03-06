@@ -29,3 +29,7 @@ Hey, i'm marco. A full stack developer and trader based in italy. Here you can s
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Bash&logoColor=white&color=ea421c)
+
+## Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoMihaiCondrache&theme=<THEME_NAME>" />
