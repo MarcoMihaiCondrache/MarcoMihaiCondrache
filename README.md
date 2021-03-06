@@ -1,4 +1,4 @@
-![](https://)
+![](https://raw.githubusercontent.com/MarcoMihaiCondrache/MarcoMihaiCondrache/main/logo-light.png)
 
 # Hi! ✍
 
