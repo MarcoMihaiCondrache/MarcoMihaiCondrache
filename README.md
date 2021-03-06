@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJ&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJ IDEA&logoColor=white&color=2bbc8a)
