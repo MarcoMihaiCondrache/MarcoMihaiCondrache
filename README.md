@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=Sass&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Bash&logoColor=white&color=ea421c)
