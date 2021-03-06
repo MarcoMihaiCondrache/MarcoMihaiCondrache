@@ -32,4 +32,6 @@ Hey, i'm marco. A full stack developer and trader based in italy. Here you can s
 
 <hr>
 
+<h6 align="center">
 Email | Server Status | API
+</h6>
