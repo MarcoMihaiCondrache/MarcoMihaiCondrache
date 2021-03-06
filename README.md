@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MarcoMihaiCondrache/MarcoMihaiCondrache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technologies and Tools
+# Hi!
+
+Hey, i'm marco. A full stack developer and trader based in italy. Here you can see some of my latest designs & projects.
+
+## Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ea421c)
