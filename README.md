@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Framework-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=Css&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=Scss&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=Sass&logoColor=white&color=ea421c)
