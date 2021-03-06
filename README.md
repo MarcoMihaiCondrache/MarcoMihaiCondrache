@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=CLion&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
