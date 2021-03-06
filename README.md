@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=ea421c)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue&logoColor=white&color=ea421c)
