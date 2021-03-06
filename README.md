@@ -2,7 +2,10 @@
 
 # Hi! ✍
 
-Hey, i'm marco. A full stack developer and trader based in italy. Here you can see some of my latest designs & projects. You can contact me at info@marcomihaicondrache.me
+Hey, i'm marco. A full stack developer and trader based in italy. Here you can see some of my latest designs & projects. 
+
+Currently I'm still studying but I'm available for freelance jobs!
+You can contact me at info@marcomihaicondrache.me
 
 ## 🔧 Technologies and Tools
 
