@@ -32,4 +32,4 @@ Hey, i'm marco. A full stack developer and trader based in italy. Here you can s
 
 ## Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoMihaiCondrache&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoMihaiCondrache&title_color=ea421c&icon_color=ea421c" />
