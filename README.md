@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, i'm marco. A full stack developer and trader based in italy. Here you can see some of my latest designs & projects. You can contact me at info@marcomihaicondrache.me
 
-## Technologies and Tools
+## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=ea421c)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ea421c)
