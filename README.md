@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi!
+# Hi! ✍
 
 Hey, i'm marco. A full stack developer and trader based in italy. Here you can see some of my latest designs & projects. You can contact me at info@marcomihaicondrache.me
 
